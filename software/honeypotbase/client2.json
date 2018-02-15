@@ -1,0 +1,8 @@
+{
+    "base": "dsl", 
+    "base_folder": "/media/johan123jo/external/VirtualBox VMs/", 
+    "name": "dsl2", 
+    "network_id": "vboxnet2", 
+    "pcap_file": "/home/johan123jo/projekter/aau/p1/software/client2.pcap", 
+    "uuid": ""
+}

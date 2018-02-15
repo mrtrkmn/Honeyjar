@@ -1,0 +1,7 @@
+{
+    "name": "<name of the virtual box>",
+    "base": "<path to the base .ova>",
+    "pcap_folder": "<location for saving pcap files>",
+    "network_id": "<stores the network id after creation>",
+    "uuid": "<stores UUID after creation>"
+}
