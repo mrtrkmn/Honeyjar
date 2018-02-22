@@ -1,0 +1,8 @@
+#!/bin/bash
+
+chain=$1
+policy=$2
+
+sudo iptables -P $chain $policy
+
+echo The policy of the $chain chain has now been set to $policy

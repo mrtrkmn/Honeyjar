@@ -1,0 +1,8 @@
+#!/bin/bash
+
+ipAddress=$1
+chain=$2
+
+sudo iptables -I $chain -s $ipAddress -j ACCEPT
+
+echo $ipAddress is now accepted in the $chain chain. 

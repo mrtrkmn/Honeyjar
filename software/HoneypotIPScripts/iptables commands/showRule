@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo Packet count and traffic dump:
+
+sudo iptables -L -v
+

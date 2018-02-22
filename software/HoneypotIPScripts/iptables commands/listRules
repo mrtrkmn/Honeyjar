@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo Listing of current rule-sets:
+
+sudo iptables -L --line-numbers

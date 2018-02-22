@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo iptables -F
+
+echo All rule-sets has now been cleared. Chain policies remain. 

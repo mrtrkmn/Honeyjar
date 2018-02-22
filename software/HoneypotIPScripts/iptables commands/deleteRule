@@ -1,0 +1,8 @@
+#!/bin/bash
+
+ruleNumber=$1
+chain=$2
+
+sudo iptables -A $chain -D $chain $ruleNumber
+
+echo Rule number $ruleNumber in the $chain chain has now been deleted. 

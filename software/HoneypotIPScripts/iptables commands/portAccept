@@ -1,0 +1,8 @@
+#!/bin/bash
+
+portNumber=$1
+chain=$2
+
+sudo iptables -A $chain -p tcp --dport $portNumber -j ACCEPT
+
+echo Port number $portNumber is now accepted in the $chain chain. 
