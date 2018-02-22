@@ -222,3 +222,34 @@
 </table>
 
 _Taken from : http://docs.trendmicro.com/all/ent/officescan/v10.5/en-us/osce_10.5_olhcl/osce_topics/what_are_trojan_ports_.htm_
+
+__Ping Sweep__
+
+- A series of packets is sent to identify live hosts 
+- Sends series of package out to identify live hosts on the network
+- Waits for the respond and knows whih hosts are alive.
+
+__Port Scan__
+
+- Identifies listening TCP and UDP ports on a live target system looking for services
+
+__Network Mapping__
+
+- Identifies the topoloy and creates a map 
+
+__OS Fingerprinting__
+
+- Determines a target's OS based on response
+
+__Nmap__
+
+- Network scanning tool includes a variety of scan types 
+    - Finds live hosts
+    - Identifies listening services 
+    - Evades intrusion detection systems
+- Sends specially crafted packets to various ports
+- Identifies the OS based on specific behavior
+    - Windows size and time to live (TTL ) value
+
+
+
