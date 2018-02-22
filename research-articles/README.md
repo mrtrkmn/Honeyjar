@@ -223,6 +223,25 @@
 
 _Taken from : http://docs.trendmicro.com/all/ent/officescan/v10.5/en-us/osce_10.5_olhcl/osce_topics/what_are_trojan_ports_.htm_
 
+
+__TCP Three-Way Handshake__
+ - This is important to understand
+ - Network scans use parts of the handshake to get responses 
+ - First, client sends a synchronization packet.This is called SYN packet
+ - This is used to synchronize sequence numbers
+ - If the server accepts, it responds with a SYN ACK 
+ - Then, the client responds with an acknowledgement, a session begins and socket created. 
+
+__In case of Service Refueses__
+- It refuses a SYN packet with an RST and an ICMP Destination Unreachable packet. 
+- No response may mean a firewall.
+- Host may try again with another SYN packet
+
+__Normal TCP Traffic__
+- It begins with a three-way handshake 
+- Client initiates the conversation by requesting to have a session with the server
+- 
+
 __Ping Sweep__
 
 - A series of packets is sent to identify live hosts 
