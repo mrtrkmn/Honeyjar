@@ -19,4 +19,9 @@
 - [Conference on Detecting Network Intrusions With Machine Learning Based Anomaly Detection Techniques (Video)](https://youtu.be/c71gt-I8Lik)
 - [Real-Time Anomaly Detection with Spark ML and Akka](https://www.youtube.com/watch?v=Aeg5yEBuqgM)
 
- 
+### Courses to watch before dive in Machine Learning
+
+- [Introduction to Probability | MIT ](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+
+-  [Linear Algebra | MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
