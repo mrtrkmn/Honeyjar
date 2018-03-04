@@ -15,7 +15,10 @@
 
 ## Articles which are investigated and highlighted
 
-- [60 Seconds Wire Malicious Traffic](research-articles/60 Seconds Wire Malicious Traffic.pdf)
+- [60 Seconds Wire Malicious Traffic](ahmetturkmen/Honeyjar/blob/master/research-articles/60%20Seconds%20Wire%20Malicious%20Traffic.pdf)
+- [Machine Learning based Traffic Classification](ahmetturkmen/Honeyjar/blob/master/research-articles/Machine%20Learning%20based%20Traffic%20Classification.pdf)
+- [Malware Detection in Android by Network Traffic Analysis](ahmetturkmen/Honeyjar/blob/master/research-articles/Malware%20Detection%20in%20Android%20by%20Network%20Traffic%20Analysis.pdf)
+- [Network Intrusion Prevention System Using Machine Learning Techniques](https://github.com/ahmetturkmen/Honeyjar/blob/master/research-articles/Network%20Intrusion%20Prevention%20System%20Using%20Machine%20Learning%20Techniques.pdf)
 
 
 
