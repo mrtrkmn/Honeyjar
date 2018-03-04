@@ -18,8 +18,9 @@
 - [60 Seconds Wire Malicious Traffic](research-articles/60%20Seconds%20Wire%20Malicious%20Traffic.pdf)
 - [Machine Learning based Traffic Classification](research-articles/Machine%20Learning%20based%20Traffic%20Classification.pdf)
 - [A Detailed Analysis of the KDD CUP 99 Data Set](research-articles/A_Detailed_Analysis_of_the_KDD_CUP_99_Da.pdf)     
+- [Anomaly based Network Intrusion Detection Methods](research-articles/Anomaly-based-Network-Intrusion-Detection-Methods.pdf)
 - [Malware Detection in Android by Network Traffic Analysis](research-articles/Malware%20Detection%20in%20Android%20by%20Network%20Traffic%20Analysis.pdf)
-- [Network Traffic Analysis and Intrusion Detection using Packet Sniffer](research-articles/Network-Traffic-Analysis-and-Intrusion-Detection-using-Packet-Sniffer.pdf)   
+- [Network Traffic Analysis and Intrusion Detection using Packet Sniffer](research-articles/Network-Traffic-Analysis-and-Intrusion-Detection-using-Packet-Sniffer.pdf)
 
 
 ### Similiar project to our goals
