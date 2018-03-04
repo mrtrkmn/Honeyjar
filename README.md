@@ -17,9 +17,9 @@
 
 - [60 Seconds Wire Malicious Traffic](ahmetturkmen/Honeyjar/blob/master/research-articles/60%20Seconds%20Wire%20Malicious%20Traffic.pdf)
 - [Machine Learning based Traffic Classification](ahmetturkmen/Honeyjar/blob/master/research-articles/Machine%20Learning%20based%20Traffic%20Classification.pdf)
+- [A Detailed Analysis of the KDD CUP 99 Data Set](ahmetturkmen/Honeyjar/blob/master/research-articles/A_Detailed_Analysis_of_the_KDD_CUP_99_Da.pdf)     
 - [Malware Detection in Android by Network Traffic Analysis](ahmetturkmen/Honeyjar/blob/master/research-articles/Malware%20Detection%20in%20Android%20by%20Network%20Traffic%20Analysis.pdf)
-- [A Detailed Analysis of the KDD CUP 99 Data Set](https://github.com/ahmetturkmen/Honeyjar/blob/master/research-articles/A_Detailed_Analysis_of_the_KDD_CUP_99_Da.pdf)
-
+- [Network Traffic Analysis and Intrusion Detection using Packet Sniffer](ahmetturkmen/Honeyjar/blob/master/research-articles/Network-Traffic-Analysis-and-Intrusion-Detection-using-Packet-Sniffer.pdf)   
 
 
 ### Similiar project to our goals
