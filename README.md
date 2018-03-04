@@ -15,7 +15,7 @@
 
 ## Articles which are investigated and highlighted
 
-- [60 Seconds Wire Malicious Traffic](ahmetturkmen/research-articles/60 Seconds Wire Malicious Traffic.pdf)
+- [60 Seconds Wire Malicious Traffic](research-articles/60 Seconds Wire Malicious Traffic.pdf)
 
 
 
