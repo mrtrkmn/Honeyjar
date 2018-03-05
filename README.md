@@ -8,7 +8,7 @@
 
 ### Naming conventions
 * No spaces in filenames 
-    * Use dash (-)
+* Use dash (-)
 * No uppercase characters in filenames
 * No danish letters in filenames
 * Dates will be named yyyymmdd eg. 20180131
