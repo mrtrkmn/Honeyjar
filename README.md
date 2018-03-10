@@ -21,7 +21,7 @@
 - [Anomaly based Network Intrusion Detection Methods](research-articles/Anomaly-based-Network-Intrusion-Detection-Methods.pdf)
 - [Malware Detection in Android by Network Traffic Analysis](research-articles/Malware%20Detection%20in%20Android%20by%20Network%20Traffic%20Analysis.pdf)
 - [Network Traffic Analysis and Intrusion Detection using Packet Sniffer](research-articles/Network-Traffic-Analysis-and-Intrusion-Detection-using-Packet-Sniffer.pdf)
-
+- [Malware Detection in Executables Using Neural Networks (Great Article by NVIDIA)](https://devblogs.nvidia.com/malware-detection-neural-networks/)
 
 ### Similiar project to our goals
 - [AI Based Cyber Security System](https://thehackernews.com/2016/04/artificial-intelligence-cyber-security.html)
