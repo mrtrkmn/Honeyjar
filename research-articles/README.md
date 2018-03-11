@@ -3,8 +3,37 @@
 2. Libraries and its implementation with their explanations will be added during the process. 
 3. (Could contain) some .PCAP files which are given as example.
 
-##### Note : More information about the content will be added along the way. 
+### Features which can be used on implementation of ML 
 
+- __Protocol Types__  
+- __Request size__ (of a request in network)
+- __Evil bit__ (can be looked at here)
+- __Valid protocol requests__ (is it valid or not. it can give hint for an anomaly based irregular behavior.)
+- __TCP Header__ (IPv4 Header security flag)
+- __Source IP Address__
+- __Source PORT number__
+- __Destination IP Address__
+- __Destination PORT Number__
+- __Transaction Protocol__
+- __State__ (Indicates to the state and its dependent protocol, e.g. ACC, CLO, CON, ECO, ECR, FIN, INT, MAS, PAR, REQ, RST, TST, TXD, URH, URN, and (-) (if not used state))
+- __Source to destination transaction bytes__
+- __Destination to source transaction bytes__
+- __TTL (DEST <-> SRC)__
+- __Retransmitted or drooped packets (DEST <-> SRC)__
+- __Used Service__(http, ftp, smtp, ssh, dns, ftp-data ,irc  and (-) if not much used service)
+- __Source bits per second__
+- __Destination bits per second__
+- __Source to destination packet count__
+- __Destination to source packet count__
+- __Timestamp__
+- __TCP connection setup time(SYN <-> SYN_ACK)__
+- __Number of GET/POST methods__
+- __Number of Attemps(username/password attemps in an FTP session)__
+- __Number of connection to same : dest/src/port__
+
+*_NOTE:_*   __<->__   _*sign indicates that this feature should be investigated in both sides such as TTL(DEST <->SRC) means time to live value from source to destination and destination to source.*_
+ 
+ 
 ### Ports Associated With Trojans & Malwares
 
 <table x-use-null-cells &lt;col cellspacing="0" class="whs4">
