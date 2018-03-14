@@ -25,7 +25,7 @@
 - [AI & ML in Cyber Security-Why Algorithms Are Dangerous(Slide)](research-articles/2018kaspersky-180309194650.pdf)
 
 ### E-BOOKS 
--[Network Anomaly Detection A Machine Learning Perspective](research-aricles/Network-Anomaly-Detection-A-machine-learning-perspective.pdf)
+- [Network Anomaly Detection A Machine Learning Perspective](research-articles/Network-Anomaly-Detection-A-machine-learning-perspective.pdf)
 
 ### Similiar project to our goals
 - [AI Based Cyber Security System](https://thehackernews.com/2016/04/artificial-intelligence-cyber-security.html)
