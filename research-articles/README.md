@@ -37,7 +37,7 @@
 
 ### Machine Learning Mind Map
 
-![Machine Learning Mind Map](https://raw.githubusercontent.com/ahmetturkmen/Honeyjar/master/research-articles/MachineLearningAlgorithms.png)
+![Machine Learning Mind Map](https://raw.githubusercontent.com/ahmetturkmen/Honeyjar/master/research-articles/MachineLearningAlgorithms.png?token=AM-9YUGeTtph9CAJlCMRz4fSiVRGTn1Uks5asqUgwA%3D%3D)
 
 
 ### Ports Associated With Trojans & Malwares
