@@ -32,8 +32,14 @@
 - __Number of connection to same : dest/src/port__
 
 *_NOTE:_*   __<->__   _*sign indicates that this feature should be investigated in both sides such as TTL(DEST <->SRC) means time to live value from source to destination and destination to source.*_
- 
- 
+
+
+
+### Machine Learning Mind Map
+
+![Machine Learning Mind Map](https://raw.githubusercontent.com/ahmetturkmen/Honeyjar/master/research-articles/MachineLearningAlgorithms.png?token=AM-9YUGeTtph9CAJlCMRz4fSiVRGTn1Uks5asqUgwA%3D%3D)
+
+
 ### Ports Associated With Trojans & Malwares
 
 <table x-use-null-cells &lt;col cellspacing="0" class="whs4">
