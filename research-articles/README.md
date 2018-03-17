@@ -30,6 +30,11 @@
 - __Number of GET/POST methods__
 - __Number of Attemps(username/password attemps in an FTP session)__
 - __Number of connection to same : dest/src/port__
+- __Duration of the flow__
+- __Average number of bytes per packet__
+- __Packet per sec__
+- __TCP flags__
+- __Number of SYN/ACK/FIN/RST/SynAck/PushAck packets__
 
 *_NOTE:_*   __<->__   _*sign indicates that this feature should be investigated in both sides such as TTL(DEST <->SRC) means time to live value from source to destination and destination to source.*_
 
