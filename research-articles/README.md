@@ -40,6 +40,28 @@
 
 
 
+### Malware infected Network Traffic PCAP files && Malwares
+
+- PCAPS
+
+        Pcaps download and pcap sample password is infected666p. I fixed the main download link but they are also here  
+	https://www.dropbox.com/sh/wje7mxs4nour40k/AAC3Zpoa5wLNwsGRvKxR9AnVa?dl=0
+
+- MALWARE (most)
+
+	https://www.dropbox.com/sh/i6ed6v32x0fp94z/AAAQvOsOvbWrOs8T3_ZTXqQya?dl=0
+ 
+- MOBILE MALWARE ( The old files, prior to 2012, may nave the pass 'infected')
+	
+	https://www.dropbox.com/sh/awydtbzef1wtg6y/AACR_ixIwWHz4EcOagSPkBeYa?dl=0 
+
+
+(_*Contribution of http://contagiodump.blogspot.com.tr/2013/04/collection-of-pcap-files-from-malware.html *_)
+
+
+
+
+
 ### Machine Learning Mind Map
 
 ![Machine Learning Mind Map](https://raw.githubusercontent.com/ahmetturkmen/Honeyjar/master/research-articles/MachineLearningAlgorithms.png?token=AM-9YUGeTtph9CAJlCMRz4fSiVRGTn1Uks5asqUgwA%3D%3D)
