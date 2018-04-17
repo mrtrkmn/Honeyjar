@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Setting viewport for better scaleability  -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<!-- Setting  -->
+	<meta charset="utf-8">
+
+	<!--Grapping styles-->
+	<link rel="stylesheet" type="text/css" href="styles/reset.css">
+	<link rel="stylesheet" type="text/css" href="styles/style.css">
+	<script src="styles/javascript.js"></script>
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+</head>
+<body>
+	<div id="topbar">
+		<img id="logo" src="icons/orange/Logo.png">
+	</div>
+	<nav>
+		<ul class="menu">
+			<h1>General</h1>
+        	<li onmouseover="changeImageHome(homeOrange)" onmouseout="changeImageHome(homeGrey)"><img id="home" class="iconSideBar" src="icons/grey/Home.png"><a href="index.html">Dashboard</a></li>
+        	<li onmouseover="changeImageTest(testOrange)" onmouseout="changeImageTest(testGrey)"><img id="test" class="iconSideBar" src="icons/grey/Test.png"><a href="test.html">Test</a></li>
+        	<li onmouseover="changeImageSecurity(securityOrange)" onmouseout="changeImageSecurity(securityGrey)"><img id="security" class="iconSideBar" src="icons/grey/Security.png"><a href="security.html">Security</a></li>
+        	<li onmouseover="changeImageSettings(settingsOrange)" onmouseout="changeImageSettings(settingsGrey)"><img id="settings" class="iconSideBar" src="icons/grey/Settings.png"><a href="settings.html">Settings</a></li>
+        	<li onmouseover="changeImageLog(logOrange)" onmouseout="changeImageLog(logGrey)"><img id="log" class="iconSideBar" src="icons/grey/Log.png"><a href="log.html">Log</a></li>
+    	</ul>
+	</nav>
+	<article class="site">
+		<section>
+			<div class="siteheading">Dashboard</div>
+			<div class="sitesubtitle">Status:</div>
+			<div class="threeColoums">
+				<div class="sitesubtitle">Server status:</div>
+				<div><img class="statusIcon" src="icons/powerOn.png"><div class="status">   -  Online</div></div>
+			</div>
+			<div class="threeColoums">
+				<div class="sitesubtitle">Test status:</div>
+				<div><img class="statusIcon" src="icons/powerOff.png"><div class="status">  - No tests running</div></div>
+			</div>
+			<div class="threeColoums">
+				<div class="sitesubtitle">Security status:</div>
+				<div><img class="statusIcon" src="icons/alertNoProblems.png"><div class="status">  - No problems</div></div>
+			</div>
+		</section>
+		<section>
+			<div id="statusDetails" class="threeColoums">
+				<div class="sitesubtitle">Server status:</div>
+				<div class="subsubtitle">Connection:</div>
+				<div class="subsubtitle">Server uptime:</div>
+				<div>
+					<div class="tab">
+						<button class="tablinks" onclick="tabOpen(event, 'CPU')">CPU</button>
+						<button class="tablinks" onclick="tabOpen(event, 'RAM')">RAM</button>
+						<button class="tablinks" onclick="tabOpen(event, 'HDD')">HDD</button>
+						<button class="tablinks" onclick="tabOpen(event, 'Network')">Network</button>
+					</div>
+
+					<div id="CPU" class="tabcontent">
+					 	<div class="subsubtitle">CPU utilization:</div>
+					 	<div class="utilizationGraph">
+							
+						</div>
+					</div>
+
+					<div id="RAM" class="tabcontent">
+					 	<div class="subsubtitle">RAM utilization:</div>
+					 	<div class="utilizationGraph">
+							
+						</div>
+					</div>
+
+					<div id="HDD" class="tabcontent">
+						<div class="subsubtitle">HDD utilization:</div>
+						<div class="utilizationGraph">
+							
+						</div>
+					</div>
+					<div id="Network" class="tabcontent">
+					 	<div class="subsubtitle">NET utilization:</div>
+					 	<div class="utilizationGraph">
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="statusDetails" class="threeColoums">
+				<div class="sitesubtitle">Test status:</div>
+				<div class="subsubtitle">VMs running:</div>
+				<div class="subsubtitle">Malware type:</div>
+				<div class="subsubtitle">Time elapsed:</div>
+				<div class="subsubtitle">Time remaining:</div>
+				
+				
+			</div>
+			<div id="statusDetails" class="threeColoums">
+				<div class="sitesubtitle">Security status:</div>
+				
+			</div>
+			
+		</section>
+	</article>
+</body>
+</html>
